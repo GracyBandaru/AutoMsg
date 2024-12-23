@@ -49,8 +49,8 @@ Ensure your system remains active until the message is sent, as the script relie
 
 ## Example
 The current script sends a message:
-- **To**: `+917780229245`
-- **Message**: `Hi vardhanuu`
+- **To**: `+91778*******`
+- **Message**: `Hi`
 - **At**: `14:29` (2:29 PM)
 
 ---
